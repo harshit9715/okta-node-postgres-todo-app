@@ -16,7 +16,7 @@
     "http-status": "^0.2.5",
     "pg": "^7.12.1",
     "pug": "^2.0.4",
-    "sequelize": "^5.19.3"
+    "sequelize": "^6.28.2"
   },
   "keywords": [
     "node",
